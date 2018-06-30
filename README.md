@@ -1,0 +1,2 @@
+# simcoin
+simple bitcoin demonstration
